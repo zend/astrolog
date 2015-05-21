@@ -1,0 +1,32 @@
+Files LRZ5_m2 / CPJV_m2 / CHI_m2 cover Jun  6, -5260 BC - Mar 20, -4986 BC.
+Files LRZ5_m1 / CPJV_m1 / CHI_m1 cover Mar 20, -4986 BC - Jan  1, -4712 BC.
+Files LRZ5_0  / CPJV_0  / CHI_0  cover Jan  1, -4712 BC - Oct 14, -4439 BC.
+Files LRZ5_1  / CPJV_1  / CHI_1  cover Oct 14, -4439 BC - Jul 28, -4165 BC.
+Files LRZ5_2  / CPJV_2  / CHI_2  cover Jul 28, -4165 BC - May 10, -3891 BC.
+Files LRZ5_3  / CPJV_3  / CHI_3  cover May 10, -3891 BC - Feb 21, -3617 BC.
+Files LRZ5_4  / CPJV_4  / CHI_4  cover Feb 21, -3617 BC - Dec  4, -3344 BC.
+Files LRZ5_5  / CPJV_5  / CHI_5  cover Dec  4, -3344 BC - Sep 17, -3070 BC.
+Files LRZ5_6  / CPJV_6  / CHI_6  cover Sep 17, -3070 BC - Jun 30, -2796 BC.
+Files LRZ5_7  / CPJV_7  / CHI_7  cover Jun 30, -2796 BC - Apr 13, -2522 BC.
+Files LRZ5_8  / CPJV_8  / CHI_8  cover Apr 13, -2522 BC - Jan 25, -2248 BC.
+Files LRZ5_9  / CPJV_9  / CHI_9  cover Jan 25, -2248 BC - Nov  7, -1975 BC.
+Files LRZ5_10 / CPJV_10 / CHI_10 cover Nov  7, -1975 BC - Aug 21, -1701 BC.
+Files LRZ5_11 / CPJV_11 / CHI_11 cover Aug 21, -1701 BC - Jun  3, -1427 BC.
+Files LRZ5_12 / CPJV_12 / CHI_12 cover Jun  3, -1427 BC - Mar 17, -1153 BC.
+Files LRZ5_13 / CPJV_13 / CHI_13 cover Mar 17, -1153 BC - Dec 28,  -880 BC.
+Files LRZ5_14 / CPJV_14 / CHI_14 cover Dec 28,  -880 BC - Oct 11,  -606 BC.
+Files LRZ5_15 / CPJV_15 / CHI_15 cover Oct 11,  -606 BC - Jul 24,  -332 BC.
+Files LRZ5_16 / CPJV_16 / CHI_16 cover Jul 24,  -332 BC - May  7,   -58 BC.
+Files LRZ5_17 / CPJV_17 / CHI_17 cover May  7,   -58 BC - Feb 18,   216 AD.
+Files LRZ5_18 / CPJV_18 / CHI_18 cover Feb 18,   216 AD - Dec  1,   489 AD.
+Files LRZ5_19 / CPJV_19 / CHI_19 cover Dec  1,   489 AD - Sep 14,   763 AD.
+Files LRZ5_20 / CPJV_20 / CHI_20 cover Sep 14,   763 AD - Jun 27,  1037 AD.
+Files LRZ5_21 / CPJV_21 / CHI_21 cover Jun 27,  1037 AD - Apr 10,  1311 AD.
+Files LRZ5_22 / CPJV_22 / CHI_22 cover Apr 10,  1311 AD - Jan 31,  1585 AD.
+Files LRZ5_23 / CPJV_23 / CHI_23 cover Jan 31,  1585 AD - Nov 16,  1858 AD.
+Files LRZ5_24 / CPJV_24 / CHI_24 cover Nov 16,  1858 AD - Aug 31,  2132 AD. *
+Files LRZ5_25 / CPJV_25 / CHI_25 cover Aug 31,  2132 AD - Jun 16,  2406 AD.
+Files LRZ5_26 / CPJV_26 / CHI_26 cover Jun 16,  2406 AD - Mar 31,  2680 AD.
+Files LRZ5_27 / CPJV_27 / CHI_27 cover Mar 31,  2680 AD - Jan 14,  2954 AD.
+Files LRZ5_28 / CPJV_28 / CHI_28 cover Jan 14,  2954 AD - Oct 30,  3227 AD.
+Files LRZ5_29 / CPJV_29          cover Oct 30,  3227 AD - Aug 15,  3501 AD.

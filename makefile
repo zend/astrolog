@@ -1,0 +1,34 @@
+# Astrolog (Version 5.40) File: makefile (DOS version)
+#
+# IMPORTANT NOTICE: The graphics database and chart display routines
+# used in this program are Copyright (C) 1991-1998 by Walter D. Pullen
+# (Astara@msn.com, http://www.magitech.com/~cruiser1/astrolog.htm).
+# Permission is granted to freely use and distribute these routines
+# provided one doesn't sell, restrict, or profit from them in any way.
+# Modification is allowed provided these notices remain with any
+# altered or edited versions of the program.
+#
+# This Makefile created for Microsoft nmake utility.
+# First created 2/9/1993.
+#
+# Generally, all that needs to be done to compile (once astrolog.h has been
+# customized), is compile each source file, and link them together with the
+# math library, and if applicable, the Microsoft C graphics library.
+#
+#If you have a 286 or higher processor, you can add /G2 to the line below.
+#if you have a math coprocessor, you can add /FPi to the line below.
+CFLAGS = /nologo /AL /Gt50 /W3 /Ox /Os
+#CFLAGS = /nologo /AL /Gt50 /W3 /G2 /FPi /Os
+
+CC = cl
+name = astrolog
+objs = astrolog.obj data.obj data2.obj general.obj io.obj\
+ calc.obj matrix.obj placalc.obj placalc2.obj\
+ charts0.obj charts1.obj charts2.obj charts3.obj intrpret.obj\
+ xdata.obj xgeneral.obj xdevice.obj\
+ xcharts0.obj xcharts1.obj xcharts2.obj xscreen.obj
+
+$(name).exe : $(objs)
+# We are compiling in Large memory model with 16,384 bytes for stack storage.
+  $(CC) /F 4000 /o $(name) *.obj graphics.lib
+#
